@@ -157,7 +157,7 @@ To ensure a smooth setup and execution of the project, please ensure that you ha
 
 ### 1.asking for height, weight, age, gender 
 
-[Screenshot (24)](https://github.com/user-attachments/assets/c6f2e2cc-7845-41b6-bb87-c686c782f519)
+C:\Users\Janvi\Pictures\Screenshots\Screenshot (24).png
 
 ### 2. asking for body temprature, duration of the exercise, avarage heart rate during the exercise 1
 
