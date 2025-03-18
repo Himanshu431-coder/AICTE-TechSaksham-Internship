@@ -157,7 +157,7 @@ To ensure a smooth setup and execution of the project, please ensure that you ha
 
 ### 1.asking for height, weight, age, gender 
 
-Screenshot (24).png
+![image](https://github.com/Himanshu431-coder/AICTE-TechSaksham-Internship/blob/main/Screenshot%20(24).png)
 
 
 ### 2. asking for body temprature, duration of the exercise, avarage heart rate during the exercise 1
