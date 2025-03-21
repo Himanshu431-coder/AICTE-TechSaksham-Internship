@@ -4,7 +4,7 @@
 # AI-Based Fitness Calorie Tracker
 
 ## Project Overview
-The **AI-Based Fitness Calorie Tracker** is an innovative application developed as part of my internship submission for the All India Council for Technical Education (AICTE). This project leverages artificial intelligence to assist users in tracking their calorie intake based on their fitness activity data. By employing advanced machine learning models, the application aims to provide accurate predictions of calories burned during various physical activities.
+The **AI-Based Fitness Calorie Tracker using Python** is an innovative application developed as part of my internship submission for the All India Council for Technical Education (AICTE). This project leverages artificial intelligence to assist users in tracking their calorie intake based on their fitness activity data. By employing advanced machine learning models, the application aims to provide accurate predictions of calories burned during various physical activities.
 
 ## Key Features
 - **Calorie Prediction**: Utilizes sophisticated machine learning algorithms to predict calorie expenditure based on user-input fitness activity data.
@@ -122,13 +122,13 @@ To ensure a smooth setup and execution of the project, please ensure that you ha
 1. **Clone the Repository**:  
    Open your terminal or command prompt and execute the following command:
    ```bash
-   git clone https://github.com/your-username/ai-based-fitness-calorie-tracker.git
+   git clone https://github.com/Himanshu431-coder/AICTE-TechSaksham-Internship
    ```
 
 2. **Navigate to the Project Directory**:  
    After cloning the repository, change your directory to the project folder:
    ```bash
-   cd ai-based-fitness-calorie-tracker
+   cd myproject
    ```
 
 3. **Install Required Dependencies**:  
@@ -146,7 +146,7 @@ To ensure a smooth setup and execution of the project, please ensure that you ha
 5. **Launch the Streamlit Web Application**:  
    To initiate the interactive web application, use the following command:
    ```bash
-   streamlit run app.py
+   streamlit run fit_track.py
    ```
 
 6. **View the Results**:  
@@ -196,7 +196,7 @@ Throughout this internship, I acquired practical skills in implementing machine 
 ---
 
 ## Acknowledgements
-I would like to express my sincere gratitude to Mr. Somya Chaudhary for his invaluable mentorship throughout this internship. His insights have been instrumental in my development as a data scientist. 
+I would like to express my sincere gratitude to Mr. Saomya Chaudhary for his invaluable mentorship throughout this internship. His insights have been instrumental in my development as a data scientist. 
 
 Additionally, I extend my appreciation to the libraries and frameworks that facilitated this project’s implementation, including NumPy, Pandas, Streamlit, and Scikit-learn.
 
