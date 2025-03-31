@@ -130,26 +130,31 @@ To ensure a smooth setup and execution of the project, please ensure that you ha
    ```bash
    cd myproject
    ```
-
-3. **Install Required Dependencies**:  
+   
+3. **Activate the virtual enviornment**:
+   ```bash
+   scripts\activate
+   ```
+ 
+4. **Install Required Dependencies**:  
    Install the necessary Python packages by running:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Run the Jupyter Notebook**:  
+5. **Run the Jupyter Notebook**:  
    Launch Jupyter Notebook to execute the project code:
    ```bash
    jupyter notebook
    ```
 
-5. **Launch the Streamlit Web Application**:  
+6. **Launch the Streamlit Web Application**:  
    To initiate the interactive web application, use the following command:
    ```bash
    streamlit run fit_track.py
    ```
 
-6. **View the Results**:  
+7. **View the Results**:  
    Once the Streamlit app is operational, it will automatically open in your web browser where you can input your data and monitor your fitness calorie tracking.
 
  # 🪟 Screenshots of inputs and outputs of fit_track.py :
